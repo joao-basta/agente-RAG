@@ -1,0 +1,7 @@
+chromadb
+openai
+dotenv
+langchain_community
+langchain_text_splitters
+pymupdf
+langchain-openai
